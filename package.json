@@ -1,8 +1,9 @@
 {
+  "homepage":"https://caninafeca.github.io/expenseList/",
   "name": "my-app",
   "version": "0.1.0",
   "private": false,
-  "homepage":"https://caninafeca.github.io/expenseList/",
+  
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
